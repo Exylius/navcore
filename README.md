@@ -1,6 +1,6 @@
 # Exylius NavCore
 
-Exylius R&D's NavCore is a cutting-edge research platform dedicated to the intricate task of modeling and navigating through space. It achieves this by employing a singular, physics-driven coordinate system that unifies celestial bodies. The platform seamlessly blends actual astronomical data with sophisticated simulation tools, while also delving into autonomous navigation techniques, notably those utilizing pulsars for positioning.
+Exylius R&D's NavCore is a theoretical research platform dedicated to the intricate task of modeling and navigating through space. It achieves this by employing a singular, physics-driven coordinate system that unifies celestial bodies. The platform seamlessly blends actual astronomical data with sophisticated simulation tools, while also delving into autonomous navigation techniques, notably those utilizing pulsars for positioning.
 
 ## What NavCore Does
 
